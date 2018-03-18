@@ -1,0 +1,11 @@
+#database
+/db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#idea and virtual env
+.idea/
+venv/
